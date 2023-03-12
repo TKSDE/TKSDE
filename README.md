@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**TKSDE/TKSDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekchanddevopsengineer&label=Profile%20views&color=0e75b6&style=flat" alt="tekchanddevopsengineer" /> </p>
  -->
 <h1 align="center">Hi , I'm Tek Chand Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
