@@ -1,7 +1,3 @@
-<!-- 
-<a href=><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student;Aspiring+as+a+Critical+Thinking+%26+Troubleshooting;Always+learning+new+things&center=true&width=500&height=50"></a>
- -->
-
 <h1 align="center">Hi , I'm Tek Chand Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" >
@@ -13,8 +9,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
 
+<a href=><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student;Aspiring+as+a+Critical+Thinking+%26+Troubleshooting;Always+learning+new+things&center=true&width=500&height=50"></a>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgyZDdiZjE4ZjY2ZmYzMzQxMWE1ZWZjY2IyMjZhYzc5MDlkZjk5YyZjdD1z/YMgjVb1RUTxHJ4CGsK/giphy.gif" width="300">
 
 ## :zap: Skills
 
