@@ -7,8 +7,7 @@
   <br/>
 </p>
 
-<a href="https://readme-typing-svg.herokuapp.com/"
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Critical+Thinking+&+Troubleshooting.;Always+learning+new+ideas." />
+<a href="https://readme-typing-svg.herokuapp.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Troubleshooting.;Always+learning+new+Ideas." />
  </a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
