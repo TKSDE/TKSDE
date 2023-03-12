@@ -10,7 +10,7 @@
 <a href="https://readme-typing-svg.herokuapp.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Troubleshooting.;Always+learning+new+Ideas." />
  </a>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgyZDdiZjE4ZjY2ZmYzMzQxMWE1ZWZjY2IyMjZhYzc5MDlkZjk5YyZjdD1z/YMgjVb1RUTxHJ4CGsK/giphy.gif" width="300">
+<img align='right' src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="300">
 
 ## :zap: Skills
 
