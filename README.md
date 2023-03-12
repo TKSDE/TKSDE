@@ -7,7 +7,7 @@
   <br/>
 </p>
 
-<a href="this code is typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Critical+Thinking+and+Troubleshooting.;Always+learning+new+ideas."></a>
+<a href="this code is typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Critical+Thinking+&+Troubleshooting.;Always+learning+new+ideas."></a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
 
