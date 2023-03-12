@@ -10,9 +10,6 @@
 <a href="https://readme-typing-svg.herokuapp.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Troubleshooting.;Always+learning+new+Ideas." />
  </a>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
-
-
 
 
 ## :zap: Skills
@@ -94,7 +91,13 @@
    
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-   
+
+
+## 🔥 Streak Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
+
+
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
