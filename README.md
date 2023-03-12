@@ -1,4 +1,4 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekchanddevopsengineer&label=Profile%20views&color=0e75b6&style=flat" alt="tekchanddevopsengineer" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekchanddevopsengineer&label=Profile%20views&color=0e75b6&style=flat" alt="TKSDE" /> </p>
  -->
 <h1 align="center">Hi , I'm Tek Chand Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -9,7 +9,7 @@
   <br/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekchanddevopsengineer&theme=algolia" alt="tekchanddevopsengineer" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
 
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgyZDdiZjE4ZjY2ZmYzMzQxMWE1ZWZjY2IyMjZhYzc5MDlkZjk5YyZjdD1z/YMgjVb1RUTxHJ4CGsK/giphy.gif" width="300">
