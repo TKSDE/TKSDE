@@ -10,7 +10,8 @@
 <a href="https://readme-typing-svg.herokuapp.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Troubleshooting.;Always+learning+new+Ideas." />
  </a>
 
-<img align='right' src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="300">
+<p><img align="right" src="https://github.com/TKSDE/TKSDE/blob/58c6048ce9aee87da487dcfe069e6eb20723feac/ICONS/animation_500_kxa883sd.gif" alt="TKSDE" /></p>
+
 
 - CSE undergraduate
 - Swami Vivekanand Subharti University in Meerut, Uttar Pradesh
