@@ -14,16 +14,15 @@
 
 - CSE undergraduate
 - Swami Vivekanand Subharti University in Meerut, Uttar Pradesh
-- I’m currently searching for DevOps interviews
 - Currently working on my **LINUX ENGINEER**
-
+- I’m currently searching for DevOps Profile job.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
 
 <p align="left">
 <a href="https://twitter.com/TekChandShar" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/0225b449ff9d0f1db38ccac49b3b7b8fa8482e01/ICONS/Social/twitter.svg" alt="TKSDE" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tek-chand-sharma/" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/0225b449ff9d0f1db38ccac49b3b7b8fa8482e01/ICONS/Social/linked-in-alt.svg" alt="TKSDE" height="30" width="40" /></a>
-
+<a href="https://tks.hashnode.dev/" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/102c5ade01c8e59b5b39babe9fcac83064b79f1c/ICONS/Social/hashnode.svg" alt="TKSDE" height="30" width="40" /></a>
 
 
 ## :zap: Skills
@@ -90,14 +89,14 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekchanddevopsengineer&show_icons=true&&theme=radical" alt="tekchanddevopsengineer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TKSDE&show_icons=true&&theme=radical" alt="TKSDE" /></p>
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekchanddevopsengineer&show_icons=true&&theme=radical&line_height=27&v=5" alt="tekchanddevopsengineer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TKSDE&show_icons=true&&theme=radical&line_height=27&v=5" alt="TKSDE" /></p>
   
 </details> 
    </details>
