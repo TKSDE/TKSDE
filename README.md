@@ -12,6 +12,20 @@
 
 <img align='right' src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="300">
 
+- CSE undergraduate
+- Swami Vivekanand Subharti University in Meerut, Uttar Pradesh
+- I’m currently searching for DevOps interviews
+- Currently working on my **LINUX ENGINEER**
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
+
+<p align="left">
+<a href="https://twitter.com/TekChandShar" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/0225b449ff9d0f1db38ccac49b3b7b8fa8482e01/ICONS/Social/twitter.svg" alt="TKSDE" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tek-chand-sharma/" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/0225b449ff9d0f1db38ccac49b3b7b8fa8482e01/ICONS/Social/linked-in-alt.svg" alt="TKSDE" height="30" width="40" /></a>
+
+
+
 ## :zap: Skills
 
    <a href="https://www.linux.org/" target="_blanfalse" />
