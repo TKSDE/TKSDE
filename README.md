@@ -78,10 +78,10 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
+ <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://tks.hashnode.dev/create-a-repo-in-rhel-8-os-and-repo-should-work-after-vm-restart"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://tks.hashnode.dev/setup-a-kind-on-any-os"/>
+<!-- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>   -->
 </p>
   </details>
   
@@ -97,7 +97,9 @@
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TKSDE&show_icons=true&&theme=radical&line_height=27&v=5" alt="TKSDE" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/55652d30d8e07e0da8d6955feae091b4136e6ca99f1a019e058207b315e24428/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d72697368696b6573686f7073267468656d653d61757261" alt="TKSDE" /></p>
+  
+<p><img align="center" src="https://camo.githubusercontent.com/6d6fdf7fb469099fd1e9c6b52bd9e99f10738ee5d5610402ef7ba76c1a3f5a3d/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d72697368696b6573686f7073267468656d653d61757261" alt="TKSDE" /></p>
   
 </details> 
    </details>
