@@ -18,12 +18,7 @@
 Bachelor of Computer Applications (BCA)
 Swami Vivekanand Subharti University, Meerut, Uttar Pradesh
 
-**Current Role
-**
-MLOps Engineer
-**Job Search
-**
-Currently working as an MLOps Engineer and actively looking for opportunities in MLOps, AIOps, DevOps, and DevSecOps profiles.
+Currently working as an MLOps Engineer and actively looking for opportunities in MLOps, AlOps, DevOps, and DevSecOps profiles.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
 
