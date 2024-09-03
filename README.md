@@ -13,9 +13,9 @@
 <p><img align="right" src="https://github.com/TKSDE/TKSDE/blob/58c6048ce9aee87da487dcfe069e6eb20723feac/ICONS/animation_500_kxa883sd.gif" alt="TKSDE" /></p>
 
 
-- CSE undergraduate
+- CSE Completed
 - Swami Vivekanand Subharti University in Meerut, Uttar Pradesh
-- Currently working on my **LINUX ENGINEER**
+- Currently working on my **MLOps Engineer**
 - I’m currently searching for DevOps Profile job.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
