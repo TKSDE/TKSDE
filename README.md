@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:00C6FF&height=260&section=header&text=Tek%20Chand%20Sharma&fontSize=80&fontAlignY=36&animation=fadeIn" width="100%">
 </div>
 
-<h1 align="center">Tek Chand Sharma</h1>
-<h3 align="center">Software Engineer • DevOps • MLOps</h3>
+<h3 align="center">
+Software Engineer 🚀 DevOps • MLOps • Cloud ☁️ Crypto & Fintech Logic 🔐 PHP • Python • MySQL
+</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Production+Grade+DevOps;Cloud+Infrastructure+Automation;AWS+%7C+Azure+%7C+Linux;CI%2FCD+Pipelines+at+Scale;Reliable+Systems+Engineering">
