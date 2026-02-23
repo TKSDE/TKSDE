@@ -107,14 +107,39 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 </p>
 
 ---
+---
 
-## 📈 Real-Time Visitors
+## 📈 Real-Time Analytics & Reach
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=TKSDE&color=0089D6&style=flat-square&label=PROFILE+VIEWS" alt="Tek Chand Sharma Views">
+  <img src="https://komarev.com/ghpvc/?username=TKSDE&color=0089D6&style=for-the-badge&label=PROFILE+VIEWS" alt="Tek Chand Sharma Views">
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🏆 Top Repositories</h3>
+  <a href="https://github.com/TKSDE/RootFlow-AI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=RootFlow-AI&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/TKSDE/CRM-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=CRM-System&theme=tokyonight" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=160&section=footer" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <p><b>"Success is not just about code; it's about the infrastructure that supports it."</b></p>
+  <p>Built with ❤️ by Tek Chand Sharma | 2026</p>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=180&section=footer&animation=fadeIn" width="100%">
 </div>
