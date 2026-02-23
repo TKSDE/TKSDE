@@ -1,144 +1,116 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Tek%20Chand%20Sharma&fontSize=78&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:00C6FF&height=260&section=header&text=Tek%20Chand%20Sharma&fontSize=80&fontAlignY=36&animation=fadeIn" width="100%">
 </div>
 
 <h1 align="center">Tek Chand Sharma</h1>
 <h3 align="center">Software Engineer • DevOps • MLOps</h3>
 
-<p align="center">
-  Infrastructure | Automation | Cloud | Production Systems
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Production+Grade+DevOps;Cloud+Infrastructure+Automation;AWS+%7C+Azure+%7C+Linux;CI%2FCD+Pipelines+at+Scale;Reliable+Systems+Engineering">
+</div>
 
----
-
-<!-- ================= BADGES ================= -->
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Production%20Grade-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Delhi%2C%20India-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-0089D6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Automation-00C6FF?style=for-the-badge">
 </p>
 
 ---
 
-<!-- ================= SUMMARY ================= -->
+## About
 
-## 👋 About Me
-
-I am a **Software Engineer with strong DevOps and MLOps expertise**, based in Delhi, India.  
-I specialize in **building, automating, and maintaining production systems** that are secure, scalable, and reliable.
-
-My work focuses on:
-- Cloud infrastructure
-- CI/CD pipelines
-- Server hardening
-- Automation-first engineering
-- Real-world production stability
-
-I believe in **clean systems, predictable deployments, and zero surprises in production**.
+I am a Software Engineer with hands-on experience in DevOps and MLOps.  
+I work on real production systems involving cloud infrastructure, CI/CD pipelines, automation, monitoring, and backend services.  
+My focus is stability, scalability, and clean system design.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## Skills
 
-## 🛠 Technical Skills
+### Cloud
+AWS  
+Azure  
+Linux Servers  
+Nginx  
+Apache  
+Cloudflare  
 
-### ☁️ Cloud & Infrastructure
-- AWS (EC2, S3, RDS)
-- Microsoft Azure
-- Linux Server Administration
-- Nginx, Apache
-- Cloudflare
-- DNS, SSL, Firewalls
+### DevOps
+Docker  
+Kubernetes  
+GitHub Actions  
+GitLab CI  
+Jenkins  
+Terraform  
+Ansible  
 
-### 🔄 DevOps & MLOps
-- GitHub Actions
-- GitLab CI/CD
-- Jenkins
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-- Monitoring & Alerts
-
-### 💻 Backend & Automation
-- Python
-- PHP
-- REST APIs
-- MySQL
-- PostgreSQL
-- Bash / Shell scripting
+### Backend
+Python  
+PHP  
+REST APIs  
+MySQL  
+PostgreSQL  
+Shell Scripting  
 
 ---
 
-<!-- ================= METRICS ================= -->
-
-## 📊 GitHub Metrics (Stable)
-
-> Using **metrics.lecoq.io** (more reliable than github-readme-stats)
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/TKSDE?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1" width="100%" />
-</p>
-
----
-
-## 📈 Language & Repo Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TKSDE&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TKSDE&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TKSDE&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TKSDE&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-<!-- ================= CONTACT ================= -->
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tek-chand-sharma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
-  </a>
-
-  <a href="mailto:tekchandkumarsharma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/TKSDE">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
-  </a>
-
-  <a href="https://wa.me/917503586034">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<!-- ================= VISITOR ================= -->
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://visitorbadge.io/api/visitors?path=TKSDE&label=Visitors&countColor=%23263759" />
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <strong>“Build systems that don’t break at 2 AM.”</strong>
-</p>
+## GitHub Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=footer" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TKSDE&theme=tokyonight" width="100%">
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TKSDE&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TKSDE&theme=tokyonight">
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TKSDE&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TKSDE&theme=tokyonight&utcOffset=5.5">
+</div>
+
+---
+
+## Experience Snapshot
+
+- Designed CI/CD pipelines for automated deployments  
+- Managed Linux servers with zero-downtime upgrades  
+- Implemented Docker & Kubernetes-based workloads  
+- Automated infrastructure using Terraform & Ansible  
+- Built backend APIs and internal tooling  
+
+---
+
+## Contact
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tek-chand-sharma/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:tekchandkumarsharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/TKSDE">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://wa.me/917503586034">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+</p>
+
+---
+
+## Visitors
+
+<div align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TKSDE&count_bg=%230089D6&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false">
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=160&section=footer" width="100%">
 </div>
