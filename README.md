@@ -6,7 +6,6 @@
 Software Engineer 🚀 DevOps • MLOps • Cloud ☁️ Crypto & Fintech Logic 🔐 PHP • Python • MySQL
 </h3>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Founding+Engineer+at+RootFlow+AI;DevOps+%26+MLOps+Architect;Azure+%7C+AWS+%7C+Linux+Cloud;Binary+Crypto+%26+MLM+Development;CI%2FCD+Pipelines+with+Docker+%26+K8s;PHP+%7C+Python+%7C+MySQL;Building+Scalable+%26+Secure+SaaS" alt="Typing SVG" />
 </div>
@@ -14,51 +13,63 @@ Software Engineer 🚀 DevOps • MLOps • Cloud ☁️ Crypto & Fintech Logic 
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Location-Delhi%2C%20India-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-0089D6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Automation-00C6FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Location-Rohini%2C%20Delhi-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white">
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-0089D6?style=for-the-badge&logo=workplace&logoColor=white">
+<img src="https://img.shields.io/badge/Founder-RootFlow%20AI-00C6FF?style=for-the-badge&logo=rocket&logoColor=white">
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a Software Engineer with hands-on experience in DevOps and MLOps.  
-I work on real production systems involving cloud infrastructure, CI/CD pipelines, automation, monitoring, and backend services.  
-My focus is stability, scalability, and clean system design.
+Hi, I am **Tek Chand Sharma** 👨‍💻 Based in **Rohini, Delhi**, I am a **Software Engineer** dedicated to bridging the gap between clean code and rock-solid infrastructure. With **over 3 years of professional experience**, I don’t just "set up" servers; I architect systems designed for growth, security, and 24/7 reliability.
 
----
-
-## Skills
-
-### Cloud
-AWS  
-Azure  
-Linux Servers  
-Nginx  
-Apache  
-Cloudflare  
-
-### DevOps
-Docker  
-Kubernetes  
-GitHub Actions  
-GitLab CI  
-Jenkins  
-Terraform  
-Ansible  
-
-### Backend
-Python  
-PHP  
-REST APIs  
-MySQL  
-PostgreSQL  
-Shell Scripting  
+I work on real-world production systems involving cloud infrastructure, CI/CD pipelines, automation, monitoring, and robust backend services. My focus is always on **stability, scalability, and clean system design**.
 
 ---
 
-## GitHub Activity
+### 🛠️ What I’m Great At
+
+My perspective is unique because I’ve been on both sides of the screen—as an engineer and as the **Founder of RootFlow AI**, a WhatsApp marketing SaaS. I’ve spent my career mastering:
+
+🔹 **Cloud Architecture** ☁️  
+I design and scale high-availability environments on **Azure and AWS**, ensuring enterprise-level uptime and reliable disaster recovery.
+
+🔹 **Automation & CI/CD** 🤖  
+I eliminate manual errors by building robust deployment pipelines with **GitHub Actions and Docker** to accelerate shipping cycles and improve developer productivity.
+
+
+🔹 **Specialized Fintech & Crypto** 🔐  
+I engineer secure, automated engines for **Binary Crypto Integration** and **MLM hierarchies** (like Rootpure) where data integrity and complex recursive logic are absolute priorities.
+
+🔹 **The Technical Stack** 💻  
+I have deep, hands-on experience with **Python, PHP (Laravel), Nginx, and MySQL** to build and manage powerful, secure backends for high-traffic applications.
+
+🔹 **MLOps & AI Infrastructure** 🧠  
+I bridge the gap between data models and production by building automated pipelines for **AI-driven platforms**, managing the end-to-end lifecycle of machine learning models.
+
+---
+
+### 💡 My Philosophy
+
+I am a **lifelong learner** who thrives on solving complex technical puzzles. Whether I’m optimizing a server for a massive traffic spike or perfecting my **badminton smash**, I believe in tactical precision and constant improvement.
+
+---
+
+## 🛠️ Detailed Skill Matrix
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) |
+| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| **CI/CD & Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) |
+| **Languages & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Specialized** | **Binary Crypto Logic** 💰 • **MLM Recursive Payouts** 📊 • **SaaS Scaling** 🚀 |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TKSDE&theme=tokyonight" width="100%">
@@ -76,17 +87,9 @@ Shell Scripting
 
 ---
 
-## Experience Snapshot
+## 🤝 Let’s Connect
 
-- Designed CI/CD pipelines for automated deployments  
-- Managed Linux servers with zero-downtime upgrades  
-- Implemented Docker & Kubernetes-based workloads  
-- Automated infrastructure using Terraform & Ansible  
-- Built backend APIs and internal tooling  
-
----
-
-## Contact
+I am always looking to collaborate on innovative projects in the **AI, MLOps, or Fintech** space. If you need someone who understands the **"founder" mindset** and has the technical depth to back it up, let’s talk! ⚡
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tek-chand-sharma/" target="_blank">
@@ -105,10 +108,9 @@ Shell Scripting
 
 ---
 
-## Visitors
-
+## 📈 Real-Time Visitors
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TKSDE&count_bg=%230089D6&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false">
+<img src="https://komarev.com/ghpvc/?username=TKSDE&color=0089D6&style=flat-square&label=PROFILE+VIEWS" alt="Tek Chand Sharma Views">
 </div>
 
 ---
