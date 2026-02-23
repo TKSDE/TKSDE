@@ -108,6 +108,7 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 
 ---
 ---
+---
 
 ## 📈 Real-Time Analytics & Reach
 
@@ -120,10 +121,10 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 <div align="center">
   <h3>🏆 Top Repositories</h3>
   <a href="https://github.com/TKSDE/RootFlow-AI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=RootFlow-AI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=RootFlow-AI&theme=tokyonight&show_owner=true" />
   </a>
-  <a href="https://github.com/TKSDE/CRM-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=CRM-System&theme=tokyonight" />
+  <a href="https://github.com/TKSDE/CRM-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=CRM-Application&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 
@@ -137,7 +138,7 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 
 <div align="center">
   <p><b>"Success is not just about code; it's about the infrastructure that supports it."</b></p>
-  <p>Built with ❤️ by Tek Chand Sharma | 2026</p>
+  <p>Built with ❤️ by <b>Tek Chand Sharma</b> | 2026</p>
 </div>
 
 <div align="center">
