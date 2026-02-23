@@ -6,8 +6,9 @@
 Software Engineer 🚀 DevOps • MLOps • Cloud ☁️ Crypto & Fintech Logic 🔐 PHP • Python • MySQL
 </h3>
 
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Production+Grade+DevOps;Cloud+Infrastructure+Automation;AWS+%7C+Azure+%7C+Linux;CI%2FCD+Pipelines+at+Scale;Reliable+Systems+Engineering">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Founding+Engineer+at+RootFlow+AI;DevOps+%26+MLOps+Architect;Azure+%7C+AWS+%7C+Linux+Cloud;Binary+Crypto+%26+MLM+Development;CI%2FCD+Pipelines+with+Docker+%26+K8s;PHP+%7C+Python+%7C+MySQL;Building+Scalable+%26+Secure+SaaS" alt="Typing SVG" />
 </div>
 
 <br>
