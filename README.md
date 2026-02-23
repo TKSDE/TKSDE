@@ -38,7 +38,6 @@ I design and scale high-availability environments on **Azure and AWS**, ensuring
 🔹 **Automation & CI/CD** 🤖  
 I eliminate manual errors by building robust deployment pipelines with **GitHub Actions and Docker** to accelerate shipping cycles and improve developer productivity.
 
-
 🔹 **Specialized Fintech & Crypto** 🔐  
 I engineer secure, automated engines for **Binary Crypto Integration** and **MLM hierarchies** (like Rootpure) where data integrity and complex recursive logic are absolute priorities.
 
@@ -107,13 +106,8 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 </p>
 
 ---
----
----
 
----
----
-
-## 📈 Real-Time Analytics & Reach
+## 📈 Analytics & Projects
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TKSDE&color=0089D6&style=for-the-badge&label=PROFILE+VIEWS" alt="Tek Chand Sharma Views">
@@ -141,9 +135,6 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
   </table>
 </div>
 
----
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=220&section=footer&text=%22Success%20is%20not%20just%20about%20code;%20it's%20about+the+infrastructure.%22+%7C+Built+with+❤️+by+Tek+Chand+Sharma&fontSize=20&fontAlignY=70&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=180&section=footer&text=%22Success+is+not+just+about+code;+it's+about+infrastructure.%22+%7C+Built+by+Tek+Chand+Sharma&fontSize=18&fontAlignY=70&animation=fadeIn" width="100%">
 </div>
