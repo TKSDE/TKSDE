@@ -111,6 +111,7 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 ---
 
 ---
+---
 
 ## 📈 Real-Time Analytics & Reach
 
@@ -122,13 +123,22 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 
 <div align="center">
   <h3>🏆 Featured Projects</h3>
-  <a href="https://github.com/TKSDE/RootFlow-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=RootFlow-AI&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/TKSDE/CRM-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=CRM-Application&theme=tokyonight" />
-  </a>
-  <p><i>Note: If cards don't load, the third-party service may be temporarily down.</i></p>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/TKSDE/RootFlow-AI">
+          <img src="https://img.shields.io/badge/RootFlow--AI-0089D6?style=for-the-badge&logo=rocket&logoColor=white" /><br />
+          <b>WhatsApp Marketing SaaS</b>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/TKSDE/CRM-Application">
+          <img src="https://img.shields.io/badge/CRM--Application-00C6FF?style=for-the-badge&logo=mysql&logoColor=white" /><br />
+          <b>Custom PHP/MySQL CRM</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
