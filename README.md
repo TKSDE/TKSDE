@@ -1,132 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=250&section=header&text=Tek%20Chand%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,100:00C6FF&height=260&section=header&text=Tek%20Chand%20Sharma&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Hi there! I am Tek Chand Sharma 🚀</h1>
-  <p><strong>Software Engineer | DevOps & MLOps Architect | Founder of RootFlow AI</strong></p>
+  <h1>Hi, I’m Tek Chand Sharma 🚀</h1>
+  <h3>Software Engineer | DevOps & MLOps Architect | Founder – RootFlow AI</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0089D6&width=600&lines=Mastering+Azure+%26+AWS+Cloud;Architecting+MLOps+Pipelines;Building+Secure+Fintech+Logic;Optimizing+High-Traffic+Servers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=DevOps+%26+MLOps+Architect;AWS+%7C+Azure+%7C+Kubernetes;High+Traffic+Server+Optimization;Secure+Fintech+%26+MLM+Logic;Founder+Mindset+with+Engineering+Depth" />
 </div>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3+%20Years-blue?style=for-the-badge&logo=workplace&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Automation-green?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Automation-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 👨‍💻 Professional Narrative
+## 👨‍💻 Professional Summary
 
-I am a **Software Engineer** based in **Rohini, Delhi**, dedicated to bridging the gap between clean code and rock-solid infrastructure. With **over 3 years of professional experience**, I don’t just "set up" servers; I architect systems designed for growth, security, and 24/7 reliability.
+I am a **Software Engineer & DevOps/MLOps Architect** based in **Delhi, India** with over **3+ years of hands-on industry experience**.  
+I design and operate **secure, scalable, and production-grade systems** that power SaaS platforms, fintech workflows, and automation-heavy products.
 
-My perspective is unique because I’ve been on both sides of the screen—as an engineer and as a founder building my own WhatsApp marketing SaaS, **RootFlow AI**. I specialize in engineering secure, automated engines for **MLM hierarchies** and **Crypto transactions** where data integrity is the absolute priority.
-
----
-
-### 🛠️ The Technical Ecosystem
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☁️ Cloud & Infrastructure</h4>
-      <ul>
-        <li><b>Microsoft Azure:</b> High-availability enterprise setups</li>
-        <li><b>AWS (EC2, S3, RDS):</b> Scalable cloud architecture</li>
-        <li><b>Server Management:</b> cPanel/WHM, Nginx, Cloudflare Tunnels</li>
-        <li><b>Virtualization:</b> Docker & Kubernetes Orchestration</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 DevOps & MLOps</h4>
-      <ul>
-        <li><b>CI/CD:</b> GitHub Actions, GitLab, Jenkins automation</li>
-        <li><b>IaC:</b> Terraform & Ansible for automated provisioning</li>
-        <li><b>MLOps:</b> Model lifecycle management & production pipelines</li>
-        <li><b>Monitoring:</b> Grafana & Prometheus dashboards</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Backend & Development</h4>
-      <ul>
-        <li><b>Python:</b> MLOps scripts & backend APIs</li>
-        <li><b>PHP (Laravel):</b> Custom CRM & MLM logic</li>
-        <li><b>Databases:</b> MySQL, PostgreSQL (Complex Transactions)</li>
-        <li><b>Scripting:</b> Bash/Shell automation for Linux</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 Specialized Domains</h4>
-      <ul>
-        <li><b>Fintech:</b> Secure Binary Crypto Integration</li>
-        <li><b>MLM Systems:</b> Automated multi-tier payout logic</li>
-        <li><b>SaaS Growth:</b> Full-stack scaling for RootFlow AI</li>
-        <li><b>DevSecOps:</b> Hardening production environments</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I bring a **founder’s mindset** with **deep engineering execution**, currently building and scaling **RootFlow AI**, a WhatsApp marketing & automation SaaS.
 
 ---
 
-### 🌟 Featured Ventures
+## 🛠️ Technology Stack
 
-#### 🚀 [RootFlow AI](https://github.com/TKSDE)
-*Founding Engineer & Architect*
-- Built a robust WhatsApp Marketing SaaS from scratch.
-- Integrated complex API workflows and automated CRM features.
-- Engineered a high-performance backend capable of handling bulk messaging streams.
+### ☁️ Cloud & Infrastructure
+- AWS EC2, S3, RDS
+- Microsoft Azure (Enterprise workloads)
+- Cloudflare, DNS, SSL, WAF
+- Linux Server Hardening
+- Nginx, Apache
+- cPanel / WHM
 
-#### 📈 [Rootpure Marketing](https://rootpure.com)
-*Core Technical Consultant*
-- Architected the MLM commission engine and user hierarchy.
-- Optimized server infrastructure for zero-downtime during peak traffic.
+### 🔄 DevOps & MLOps
+- CI/CD: GitHub Actions, GitLab CI, Jenkins
+- Infrastructure as Code: Terraform, Ansible
+- Docker & Kubernetes
+- Monitoring: Prometheus, Grafana
+- Log Management & Alerts
+- Model Deployment Pipelines
+
+### 💻 Backend Engineering
+- Python (Automation, APIs, MLOps)
+- PHP (Laravel, Core APIs)
+- REST API Design
+- MySQL & PostgreSQL
+- High-Concurrency Transaction Systems
+
+### 🔐 Specialized Domains
+- Fintech Systems
+- MLM Commission Engines
+- Crypto Binary Logic
+- Secure Payment Workflows
+- DevSecOps Practices
 
 ---
 
-### 📊 Performance Metrics
+## 🚀 Ventures & Work
+
+### RootFlow AI
+- WhatsApp Marketing SaaS
+- Bulk messaging pipelines
+- API automation
+- CRM & contact intelligence
+- High-throughput backend architecture
+
+### Rootpure Marketing
+- MLM hierarchy & commission engine
+- Server scaling for peak traffic
+- Zero-downtime optimizations
+
+---
+
+## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TKSDE&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKSDE&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TKSDE&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKSDE&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TKSDE&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
-### 🎓 Academic Foundation
+## 🎓 Education
 
-* **Master of Computer Applications (MCA)** | *Currently Pursuing*
-* **Bachelor of Computer Applications (BCA)** | Swami Vivekanand Subharti University
+- Master of Computer Applications (MCA) – Pursuing
+- Bachelor of Computer Applications (BCA)  
+  Swami Vivekanand Subharti University
 
 ---
 
-### 🤝 Let's Collaborate
+## 🤝 Connect With Me
 
-I am always looking to collaborate on innovative projects in the **AI, MLOps, or Fintech** space. If you need a partner who understands the "founder" mindset and has the technical depth to back it up, let's talk! ⚡
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tek-chand-sharma/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/tek-chand-sharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:tekchandkumarsharma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/TKSDE" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/TKSDE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="tel:+917503586034">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  <a href="https://wa.me/917503586034" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -135,5 +128,9 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 </div>
 
 <div align="center">
-  <p>Thanks for visiting! ❤️ | Profile Visits: <img src="https://profile-counter.glitch.me/tekchanddevopsengineer/count.svg" alt="Visitor Count" /></p>
+  <p>
+    Thanks for visiting ❤️ <br/>
+    Profile Visits:
+    <img src="https://profile-counter.glitch.me/TKSDE/count.svg" />
+  </p>
 </div>
