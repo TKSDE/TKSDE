@@ -142,18 +142,8 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 </div>
 
 ---
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <p><b>"Success is not just about code; it's about the infrastructure that supports it."</b></p>
-  <p>Built with ❤️ by <b>Tek Chand Sharma</b> | 2026</p>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=180&section=footer&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0089D6&height=220&section=footer&text=%22Success%20is%20not%20just%20about%20code;%20it's%20about+the+infrastructure.%22+%7C+Built+with+❤️+by+Tek+Chand+Sharma&fontSize=20&fontAlignY=70&animation=fadeIn" width="100%">
 </div>
