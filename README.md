@@ -1,141 +1,139 @@
-<h1 align="center">Hi , I'm Tek Chand Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center" >
-  <samp>
-    Hello! My name is <em>Tek Chand Sharma</em> and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
-  </samp>
-  <br/>
-</p>
-
-<a href="https://readme-typing-svg.herokuapp.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student.;Aspiring+as+a+Troubleshooting.;Always+learning+new+Ideas." />
- </a>
-
-<p><img align="right" src="https://github.com/TKSDE/TKSDE/blob/58c6048ce9aee87da487dcfe069e6eb20723feac/ICONS/animation_500_kxa883sd.gif" alt="TKSDE" /></p>
-
-
-**Education**
-
-Bachelor of Computer Applications (BCA)
-Swami Vivekanand Subharti University, Meerut, Uttar Pradesh
-
-Currently working as an MLOps Engineer and actively looking for opportunities in MLOps, AlOps, DevOps, and DevSecOps profiles.
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
-
-<p align="left">
-<a href="https://twitter.com/TekChandShar" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/0225b449ff9d0f1db38ccac49b3b7b8fa8482e01/ICONS/Social/twitter.svg" alt="TKSDE" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tek-chand-sharma/" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/0225b449ff9d0f1db38ccac49b3b7b8fa8482e01/ICONS/Social/linked-in-alt.svg" alt="TKSDE" height="30" width="40" /></a>
-<a href="https://tks.hashnode.dev/" target="blank"><img align="center" src="https://github.com/TKSDE/TKSDE/blob/102c5ade01c8e59b5b39babe9fcac83064b79f1c/ICONS/Social/hashnode.svg" alt="TKSDE" height="30" width="40" /></a>
-
-
-## :zap: Skills
-
-   <a href="https://www.linux.org/" target="_blanfalse" />
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
-  </a>
-   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
-  </a>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-   </a>
-    <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
-  </a>
- </a>
-    <a href="https://pages.github.com/?(null)" target="_blank" >
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
-  </a>
- </a>
-  <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-  </a>
-  
-  ### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-</p>
-  
-  ## Hashnode Blogs (Expand to View)
-
-<details>
-  <summary><b>Tap Me</b></summary>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://tks.hashnode.dev/create-a-repo-in-rhel-8-os-and-repo-should-work-after-vm-restart"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://tks.hashnode.dev/setup-a-kind-on-any-os"/>
-<!-- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>   -->
-</p>
-  </details>
-  
-  ## 📊 Github Stats (Expand to View) 
-  
- <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TKSDE&show_icons=true&&theme=radical" alt="TKSDE" /></p>
-
-</details>
-
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p><img align="left" src="https://camo.githubusercontent.com/55652d30d8e07e0da8d6955feae091b4136e6ca99f1a019e058207b315e24428/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d72697368696b6573686f7073267468656d653d61757261" alt="TKSDE" /></p>
-  
-<p><img align="center" src="https://camo.githubusercontent.com/6d6fdf7fb469099fd1e9c6b52bd9e99f10738ee5d5610402ef7ba76c1a3f5a3d/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d72697368696b6573686f7073267468656d653d61757261" alt="TKSDE" /></p>
-  
-</details> 
-   </details>
-
-  <summary><b>📈 My Contributions</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TKSDE&theme=great_gatsby" alt="TKSDE" /></p>
-
-   
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=algolia" alt="TKSDE" /></p>
-
-
-<!--  ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
-
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:rishikeshmashidkar@gmail.com) 💌 <br>
-<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
-
- --> -->
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0089D6&height=250&section=header&text=Tek%20Chand%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
+<div align="center">
+  <h1>Hi there! I am Tek Chand Sharma 🚀</h1>
+  <p><strong>Software Engineer | DevOps & MLOps Architect | Founder of RootFlow AI</strong></p>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0089D6&width=600&lines=Mastering+Azure+%26+AWS+Cloud;Architecting+MLOps+Pipelines;Building+Secure+Fintech+Logic;Optimizing+High-Traffic+Servers" alt="Typing SVG" />
+</div>
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/tekchanddevopsengineer/count.svg)
-# TEK CHAND KUMAR SHARMA
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3+%20Years-blue?style=for-the-badge&logo=workplace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Automation-green?style=for-the-badge&logo=target&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 Professional Narrative
+
+I am a **Software Engineer** based in **Rohini, Delhi**, dedicated to bridging the gap between clean code and rock-solid infrastructure. With **over 3 years of professional experience**, I don’t just "set up" servers; I architect systems designed for growth, security, and 24/7 reliability.
+
+My perspective is unique because I’ve been on both sides of the screen—as an engineer and as a founder building my own WhatsApp marketing SaaS, **RootFlow AI**. I specialize in engineering secure, automated engines for **MLM hierarchies** and **Crypto transactions** where data integrity is the absolute priority.
+
+---
+
+### 🛠️ The Technical Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Infrastructure</h4>
+      <ul>
+        <li><b>Microsoft Azure:</b> High-availability enterprise setups</li>
+        <li><b>AWS (EC2, S3, RDS):</b> Scalable cloud architecture</li>
+        <li><b>Server Management:</b> cPanel/WHM, Nginx, Cloudflare Tunnels</li>
+        <li><b>Virtualization:</b> Docker & Kubernetes Orchestration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 DevOps & MLOps</h4>
+      <ul>
+        <li><b>CI/CD:</b> GitHub Actions, GitLab, Jenkins automation</li>
+        <li><b>IaC:</b> Terraform & Ansible for automated provisioning</li>
+        <li><b>MLOps:</b> Model lifecycle management & production pipelines</li>
+        <li><b>Monitoring:</b> Grafana & Prometheus dashboards</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Backend & Development</h4>
+      <ul>
+        <li><b>Python:</b> MLOps scripts & backend APIs</li>
+        <li><b>PHP (Laravel):</b> Custom CRM & MLM logic</li>
+        <li><b>Databases:</b> MySQL, PostgreSQL (Complex Transactions)</li>
+        <li><b>Scripting:</b> Bash/Shell automation for Linux</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔐 Specialized Domains</h4>
+      <ul>
+        <li><b>Fintech:</b> Secure Binary Crypto Integration</li>
+        <li><b>MLM Systems:</b> Automated multi-tier payout logic</li>
+        <li><b>SaaS Growth:</b> Full-stack scaling for RootFlow AI</li>
+        <li><b>DevSecOps:</b> Hardening production environments</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Ventures
+
+#### 🚀 [RootFlow AI](https://github.com/TKSDE)
+*Founding Engineer & Architect*
+- Built a robust WhatsApp Marketing SaaS from scratch.
+- Integrated complex API workflows and automated CRM features.
+- Engineered a high-performance backend capable of handling bulk messaging streams.
+
+#### 📈 [Rootpure Marketing](https://rootpure.com)
+*Core Technical Consultant*
+- Architected the MLM commission engine and user hierarchy.
+- Optimized server infrastructure for zero-downtime during peak traffic.
+
+---
+
+### 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TKSDE&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKSDE&layout=compact&theme=tokyonight" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TKSDE&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+### 🎓 Academic Foundation
+
+* **Master of Computer Applications (MCA)** | *Currently Pursuing*
+* **Bachelor of Computer Applications (BCA)** | Swami Vivekanand Subharti University
+
+---
+
+### 🤝 Let's Collaborate
+
+I am always looking to collaborate on innovative projects in the **AI, MLOps, or Fintech** space. If you need a partner who understands the "founder" mindset and has the technical depth to back it up, let's talk! ⚡
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tek-chand-sharma/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tekchandkumarsharma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TKSDE" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:+917503586034">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <p>Thanks for visiting! ❤️ | Profile Visits: <img src="https://profile-counter.glitch.me/tekchanddevopsengineer/count.svg" alt="Visitor Count" /></p>
+</div>
