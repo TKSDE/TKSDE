@@ -120,10 +120,10 @@ I am always looking to collaborate on innovative projects in the **AI, MLOps, or
 
 <div align="center">
   <h3>🏆 Top Repositories</h3>
-  <a href="https://github.com/TKSDE/RootFlow-AI">
+  <a href="https://github.com/TKSDE/terraform-aws-ecs-fullstack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=RootFlow-AI&theme=tokyonight&show_owner=true" />
   </a>
-  <a href="https://github.com/TKSDE/CRM-Application">
+  <a href="https://github.com/TKSDE/my-infra-project.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TKSDE&repo=CRM-Application&theme=tokyonight&show_owner=true" />
   </a>
 </div>
